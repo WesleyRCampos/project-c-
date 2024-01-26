@@ -1,0 +1,14 @@
+C:\Users\slyRC\project-c#\menor-distancia\bin\Debug\net8.0\menor-distancia.exe
+C:\Users\slyRC\project-c#\menor-distancia\bin\Debug\net8.0\menor-distancia.deps.json
+C:\Users\slyRC\project-c#\menor-distancia\bin\Debug\net8.0\menor-distancia.runtimeconfig.json
+C:\Users\slyRC\project-c#\menor-distancia\bin\Debug\net8.0\menor-distancia.dll
+C:\Users\slyRC\project-c#\menor-distancia\bin\Debug\net8.0\menor-distancia.pdb
+C:\Users\slyRC\project-c#\menor-distancia\obj\Debug\net8.0\menor-distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slyRC\project-c#\menor-distancia\obj\Debug\net8.0\menor-distancia.AssemblyInfoInputs.cache
+C:\Users\slyRC\project-c#\menor-distancia\obj\Debug\net8.0\menor-distancia.AssemblyInfo.cs
+C:\Users\slyRC\project-c#\menor-distancia\obj\Debug\net8.0\menor-distancia.csproj.CoreCompileInputs.cache
+C:\Users\slyRC\project-c#\menor-distancia\obj\Debug\net8.0\menor-distancia.dll
+C:\Users\slyRC\project-c#\menor-distancia\obj\Debug\net8.0\refint\menor-distancia.dll
+C:\Users\slyRC\project-c#\menor-distancia\obj\Debug\net8.0\menor-distancia.pdb
+C:\Users\slyRC\project-c#\menor-distancia\obj\Debug\net8.0\menor-distancia.genruntimeconfig.cache
+C:\Users\slyRC\project-c#\menor-distancia\obj\Debug\net8.0\ref\menor-distancia.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Livro-de-ofertas", "Livro-de-ofertas\Livro-de-ofertas.csproj", "{49519FF6-95A1-4F69-84D9-CE3095FCACFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "menor-distancia", "menor-distancia\menor-distancia.csproj", "{CD95667F-6462-4FAD-A75E-C1D4D4835554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49519FF6-95A1-4F69-84D9-CE3095FCACFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49519FF6-95A1-4F69-84D9-CE3095FCACFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49519FF6-95A1-4F69-84D9-CE3095FCACFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49519FF6-95A1-4F69-84D9-CE3095FCACFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD95667F-6462-4FAD-A75E-C1D4D4835554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD95667F-6462-4FAD-A75E-C1D4D4835554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD95667F-6462-4FAD-A75E-C1D4D4835554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD95667F-6462-4FAD-A75E-C1D4D4835554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CDFD850-46C6-4BBB-BB2C-258919F0FBA5}
+	EndGlobalSection
+EndGlobal

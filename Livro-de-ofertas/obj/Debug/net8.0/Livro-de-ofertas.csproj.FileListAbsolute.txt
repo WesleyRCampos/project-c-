@@ -1,0 +1,14 @@
+C:\Users\slyRC\project-c#\Livro-de-ofertas\bin\Debug\net8.0\Livro-de-ofertas.exe
+C:\Users\slyRC\project-c#\Livro-de-ofertas\bin\Debug\net8.0\Livro-de-ofertas.deps.json
+C:\Users\slyRC\project-c#\Livro-de-ofertas\bin\Debug\net8.0\Livro-de-ofertas.runtimeconfig.json
+C:\Users\slyRC\project-c#\Livro-de-ofertas\bin\Debug\net8.0\Livro-de-ofertas.dll
+C:\Users\slyRC\project-c#\Livro-de-ofertas\bin\Debug\net8.0\Livro-de-ofertas.pdb
+C:\Users\slyRC\project-c#\Livro-de-ofertas\obj\Debug\net8.0\Livro-de-ofertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slyRC\project-c#\Livro-de-ofertas\obj\Debug\net8.0\Livro-de-ofertas.AssemblyInfoInputs.cache
+C:\Users\slyRC\project-c#\Livro-de-ofertas\obj\Debug\net8.0\Livro-de-ofertas.AssemblyInfo.cs
+C:\Users\slyRC\project-c#\Livro-de-ofertas\obj\Debug\net8.0\Livro-de-ofertas.csproj.CoreCompileInputs.cache
+C:\Users\slyRC\project-c#\Livro-de-ofertas\obj\Debug\net8.0\Livro-de-ofertas.dll
+C:\Users\slyRC\project-c#\Livro-de-ofertas\obj\Debug\net8.0\refint\Livro-de-ofertas.dll
+C:\Users\slyRC\project-c#\Livro-de-ofertas\obj\Debug\net8.0\Livro-de-ofertas.pdb
+C:\Users\slyRC\project-c#\Livro-de-ofertas\obj\Debug\net8.0\Livro-de-ofertas.genruntimeconfig.cache
+C:\Users\slyRC\project-c#\Livro-de-ofertas\obj\Debug\net8.0\ref\Livro-de-ofertas.dll
